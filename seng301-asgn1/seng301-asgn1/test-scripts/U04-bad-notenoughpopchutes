@@ -1,0 +1,4 @@
+CREATE(5, 10, 25, 25, 100; 3)
+CONFIGURE([0] "Coke", 250; "water", 250)
+UNLOAD([0])
+CHECK_TEARDOWN(0; 0)
