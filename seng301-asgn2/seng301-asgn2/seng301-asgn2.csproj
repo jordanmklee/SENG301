@@ -96,8 +96,17 @@
   <ItemGroup>
     <None Include="App.config" />
     <None Include="test-scripts\T01-good-script" />
+    <None Include="test-scripts\T02-good-noloadedpop" />
+    <None Include="test-scripts\T03-good-humanerror" />
+    <None Include="test-scripts\T04-good-multipleconfigure" />
+    <None Include="test-scripts\T05-good-multiplemachines" />
     <None Include="test-scripts\U01-bad-script1" />
     <None Include="test-scripts\U02-bad-script2" />
+    <None Include="test-scripts\U03-bad-duplicatecoin" />
+    <None Include="test-scripts\U04-bad-notenoughpopchutes" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="test-scripts\README.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <PropertyGroup>
