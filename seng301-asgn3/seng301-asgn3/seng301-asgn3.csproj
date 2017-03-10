@@ -53,10 +53,6 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="SqlDatabaseSetup.cs" />
-    <Compile Include="SqlServerUnitTest1.cs">
-      <SubType>Component</SubType>
-    </Compile>
     <Compile Include="src\Frontend2.Hardware\AbstractHardware.cs" />
     <Compile Include="src\Frontend2.Hardware\CoinChannel.cs" />
     <Compile Include="src\Frontend2.Hardware\CoinEventArgs.cs" />
@@ -95,7 +91,6 @@
     <Compile Include="src\VendingMachineStoredContents.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="App.config" />
     <None Include="test-scripts\T01-good-insert-and-press-exact-change" />
     <None Include="test-scripts\T02-good-insert-and-press-change-expected" />
     <None Include="test-scripts\T03-good-teardown-without-configure-or-load" />
