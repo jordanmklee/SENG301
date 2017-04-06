@@ -1,0 +1,7 @@
+C:\Users\Jordan\Desktop\SENG301\seng301-asgn4\seng301-asgn4\obj\Debug\seng301-asgn4.csprojResolveAssemblyReference.cache
+C:\Users\Jordan\Desktop\SENG301\seng301-asgn4\seng301-asgn4\bin\Debug\seng301-asgn4.dll.config
+C:\Users\Jordan\Desktop\SENG301\seng301-asgn4\seng301-asgn4\bin\Debug\seng301-asgn4.dll
+C:\Users\Jordan\Desktop\SENG301\seng301-asgn4\seng301-asgn4\bin\Debug\seng301-asgn4.pdb
+C:\Users\Jordan\Desktop\SENG301\seng301-asgn4\seng301-asgn4\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Jordan\Desktop\SENG301\seng301-asgn4\seng301-asgn4\obj\Debug\seng301-asgn4.dll
+C:\Users\Jordan\Desktop\SENG301\seng301-asgn4\seng301-asgn4\obj\Debug\seng301-asgn4.pdb

@@ -48,6 +48,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="src\BusinessRule.cs" />
+    <Compile Include="src\CommunicactionFacade.cs" />
     <Compile Include="src\Frontend4.Hardware\AbstractHardware.cs" />
     <Compile Include="src\Frontend4.Hardware\CoinChannel.cs" />
     <Compile Include="src\Frontend4.Hardware\CoinEventArgs.cs" />
@@ -82,6 +84,8 @@
     <Compile Include="src\Frontend4\IDeliverable.cs" />
     <Compile Include="src\Frontend4\Product.cs" />
     <Compile Include="src\Frontend4\ProductKind.cs" />
+    <Compile Include="src\PaymentFacade.cs" />
+    <Compile Include="src\ProductFacade.cs" />
     <Compile Include="src\VendingMachine.cs" />
     <Compile Include="test\BadSetup.cs" />
     <Compile Include="test\GoodCoinWeirdness.cs" />
